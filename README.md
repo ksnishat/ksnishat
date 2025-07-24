@@ -52,7 +52,7 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksnishat&show_icons=true&locale=en&theme=dark" alt="ksnishat" /></p>
 
 ### 📈 GitHub Streak:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksnishat&theme=dark" alt="ksnishat" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ksnishat&theme=dark&hide_border=false" alt="ksnishat" /></p>
 
 <br/>
 
