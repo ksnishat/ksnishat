@@ -25,8 +25,6 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 ### 🔗 Let's Connect:
 <p align="left">
 <a href="https://linkedin.com/in/ksnishat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksnishat" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/your-kaggle-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-username" height="30" width="40" /></a>
-<a href="mailto:khaled.saifullah.nishat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ksnishat" height="30" width="40" /></a>
 </p>
 
 <br/>
