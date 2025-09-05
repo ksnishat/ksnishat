@@ -7,7 +7,7 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 - 🔭 I’m currently building end-to-end ML projects and exploring MLOps best practices.
 - 🌱 I’m currently learning more about scalable Deep Learning and cloud-native data architectures.
 - 💬 Ask me about **Python, Data Science, Machine Learning, or MLOps**.
-- 📫 How to reach me: **khaled.saifullah.nishat@gmail.com**
+- 📫 How to reach me: **ksnishat@gmail.com**
 
 <br/>
 
